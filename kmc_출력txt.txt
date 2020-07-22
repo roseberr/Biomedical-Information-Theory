@@ -1,0 +1,271 @@
+nonribo와 ribo data를 하나씩 뽑았을때의 k means 함수 실행!!
+K=2
+RIBO genes: gene number 0 to 120
+NONRIBO genes: gene number 121 to 2466
+
+Cluster  0 의 total number of genes:  554 이다
+Cluster  0 의 ribodata number of genes:  120 이다
+
+Cluster  1 의 total number of genes:  1913 이다
+Cluster  1 의 ribodata number of genes:  1 이다
+
+Cluster 0  :
+index: 1 Gene number=  0
+index: 2 Gene number=  1
+index: 3 Gene number=  2
+index: 4 Gene number=  3
+index: 5 Gene number=  4
+index: 6 Gene number=  5
+index: 7 Gene number=  6
+index: 8 Gene number=  7
+index: 9 Gene number=  8
+index: 10 Gene number=  9
+index: 11 Gene number=  10
+index: 12 Gene number=  11
+index: 13 Gene number=  12
+index: 14 Gene number=  13
+index: 15 Gene number=  14
+index: 16 Gene number=  15
+index: 17 Gene number=  16
+index: 18 Gene number=  17
+index: 19 Gene number=  18
+index: 20 Gene number=  19
+index: 21 Gene number=  20
+index: 22 Gene number=  21
+index: 23 Gene number=  22
+index: 24 Gene number=  23
+index: 25 Gene number=  24
+index: 26 Gene number=  25
+index: 27 Gene number=  26
+index: 28 Gene number=  27
+index: 29 Gene number=  28
+index: 30 Gene number=  29
+index: 31 Gene number=  30
+index: 32 Gene number=  31
+index: 33 Gene number=  32
+index: 34 Gene number=  33
+index: 35 Gene number=  34
+index: 36 Gene number=  35
+index: 37 Gene number=  36
+index: 38 Gene number=  37
+index: 39 Gene number=  38
+index: 40 Gene number=  39
+index: 41 Gene number=  40
+index: 42 Gene number=  41
+index: 43 Gene number=  42
+index: 44 Gene number=  43
+index: 45 Gene number=  44
+index: 46 Gene number=  45
+index: 47 Gene number=  46
+index: 48 Gene number=  47
+index: 49 Gene number=  48
+index: 50 Gene number=  49
+index: 51 Gene number=  50
+index: 52 Gene number=  51
+index: 53 Gene number=  52
+index: 54 Gene number=  53
+index: 55 Gene number=  54
+index: 56 Gene number=  55
+index: 57 Gene number=  56
+index: 58 Gene number=  57
+index: 59 Gene number=  58
+index: 60 Gene number=  59
+index: 61 Gene number=  60
+index: 62 Gene number=  61
+index: 63 Gene number=  62
+index: 64 Gene number=  63
+index: 65 Gene number=  64
+index: 66 Gene number=  65
+index: 67 Gene number=  66
+index: 68 Gene number=  67
+index: 69 Gene number=  68
+index: 70 Gene number=  69
+index: 71 Gene number=  70
+index: 72 Gene number=  71
+index: 73 Gene number=  72
+index: 74 Gene number=  73
+index: 75 Gene number=  74
+index: 76 Gene number=  75
+index: 77 Gene number=  76
+index: 78 Gene number=  77
+index: 79 Gene number=  78
+index: 80 Gene number=  79
+index: 81 Gene number=  80
+index: 82 Gene number=  81
+index: 83 Gene number=  82
+index: 84 Gene number=  83
+index: 85 Gene number=  84
+index: 86 Gene number=  85
+index: 87 Gene number=  86
+index: 88 Gene number=  87
+index: 89 Gene number=  88
+index: 90 Gene number=  89
+index: 91 Gene number=  90
+index: 92 Gene number=  91
+index: 93 Gene number=  92
+index: 94 Gene number=  93
+index: 95 Gene number=  94
+index: 96 Gene number=  95
+index: 97 Gene number=  96
+index: 98 Gene number=  97
+index: 99 Gene number=  98
+index: 100 Gene number=  99
+index: 101 Gene number=  100
+index: 102 Gene number=  101
+index: 103 Gene number=  102
+index: 104 Gene number=  103
+index: 105 Gene number=  104
+index: 106 Gene number=  105
+index: 107 Gene number=  106
+index: 108 Gene number=  107
+index: 109 Gene number=  108
+index: 110 Gene number=  109
+index: 111 Gene number=  110
+index: 112 Gene number=  111
+index: 113 Gene number=  112
+index: 114 Gene number=  113
+index: 115 Gene number=  114
+index: 116 Gene number=  115
+index: 117 Gene number=  116
+index: 118 Gene number=  117
+index: 119 Gene number=  118
+index: 120 Gene number=  119
+
+Cluster 1  :
+index: 1 Gene number=  120
+
+
+random하게 data를 뽑아서 k means 실행 
+K=2
+RIBO genes: gene number 0 to 120
+NONRIBO genes: gene number 121 to 2466
+
+Cluster  0 의 total number of genes:  553 이다
+Cluster  0 의 ribodata number of genes:  119 이다
+
+Cluster  1 의 total number of genes:  1914 이다
+Cluster  1 의 ribodata number of genes:  1 이다
+
+Cluster 0  :
+index: 1 Gene number=  114
+index: 2 Gene number=  41
+index: 3 Gene number=  48
+index: 4 Gene number=  109
+index: 5 Gene number=  0
+index: 6 Gene number=  3
+index: 7 Gene number=  119
+index: 8 Gene number=  5
+index: 9 Gene number=  91
+index: 10 Gene number=  81
+index: 11 Gene number=  13
+index: 12 Gene number=  8
+index: 13 Gene number=  118
+index: 14 Gene number=  27
+index: 15 Gene number=  7
+index: 16 Gene number=  76
+index: 17 Gene number=  46
+index: 18 Gene number=  1
+index: 19 Gene number=  49
+index: 20 Gene number=  36
+index: 21 Gene number=  73
+index: 22 Gene number=  111
+index: 23 Gene number=  51
+index: 24 Gene number=  58
+index: 25 Gene number=  9
+index: 26 Gene number=  64
+index: 27 Gene number=  20
+index: 28 Gene number=  37
+index: 29 Gene number=  88
+index: 30 Gene number=  40
+index: 31 Gene number=  62
+index: 32 Gene number=  55
+index: 33 Gene number=  94
+index: 34 Gene number=  2
+index: 35 Gene number=  86
+index: 36 Gene number=  112
+index: 37 Gene number=  34
+index: 38 Gene number=  17
+index: 39 Gene number=  35
+index: 40 Gene number=  71
+index: 41 Gene number=  110
+index: 42 Gene number=  60
+index: 43 Gene number=  47
+index: 44 Gene number=  16
+index: 45 Gene number=  31
+index: 46 Gene number=  45
+index: 47 Gene number=  4
+index: 48 Gene number=  53
+index: 49 Gene number=  56
+index: 50 Gene number=  97
+index: 51 Gene number=  33
+index: 52 Gene number=  24
+index: 53 Gene number=  79
+index: 54 Gene number=  50
+index: 55 Gene number=  14
+index: 56 Gene number=  65
+index: 57 Gene number=  54
+index: 58 Gene number=  89
+index: 59 Gene number=  74
+index: 60 Gene number=  11
+index: 61 Gene number=  113
+index: 62 Gene number=  99
+index: 63 Gene number=  42
+index: 64 Gene number=  84
+index: 65 Gene number=  32
+index: 66 Gene number=  106
+index: 67 Gene number=  93
+index: 68 Gene number=  44
+index: 69 Gene number=  105
+index: 70 Gene number=  67
+index: 71 Gene number=  6
+index: 72 Gene number=  75
+index: 73 Gene number=  38
+index: 74 Gene number=  22
+index: 75 Gene number=  52
+index: 76 Gene number=  103
+index: 77 Gene number=  23
+index: 78 Gene number=  10
+index: 79 Gene number=  70
+index: 80 Gene number=  117
+index: 81 Gene number=  69
+index: 82 Gene number=  21
+index: 83 Gene number=  98
+index: 84 Gene number=  57
+index: 85 Gene number=  61
+index: 86 Gene number=  68
+index: 87 Gene number=  104
+index: 88 Gene number=  102
+index: 89 Gene number=  82
+index: 90 Gene number=  80
+index: 91 Gene number=  63
+index: 92 Gene number=  95
+index: 93 Gene number=  115
+index: 94 Gene number=  25
+index: 95 Gene number=  30
+index: 96 Gene number=  39
+index: 97 Gene number=  78
+index: 98 Gene number=  108
+index: 99 Gene number=  66
+index: 100 Gene number=  43
+index: 101 Gene number=  59
+index: 102 Gene number=  28
+index: 103 Gene number=  90
+index: 104 Gene number=  19
+index: 105 Gene number=  100
+index: 106 Gene number=  107
+index: 107 Gene number=  83
+index: 108 Gene number=  87
+index: 109 Gene number=  72
+index: 110 Gene number=  77
+index: 111 Gene number=  85
+index: 112 Gene number=  116
+index: 113 Gene number=  12
+index: 114 Gene number=  29
+index: 115 Gene number=  18
+index: 116 Gene number=  101
+index: 117 Gene number=  96
+index: 118 Gene number=  15
+index: 119 Gene number=  92
+
+Cluster 1  :
+index: 1 Gene number=  120
